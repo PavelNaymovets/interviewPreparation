@@ -13,6 +13,7 @@ import com.naumovets.interview.preparation.homeWork_1.task_3.Triangle;
 import static com.naumovets.interview.preparation.homeWork_1.task_1.Person.builder;
 
 public class HomeWorkApplication {
+
     public static void main(String[] args) {
         //=====================================================
         // Задание 1. Pattern Builder
