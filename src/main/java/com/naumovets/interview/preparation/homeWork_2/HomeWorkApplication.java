@@ -6,7 +6,6 @@ import com.naumovets.interview.preparation.homeWork_2.task_2.ArrayList;
 
 public class HomeWorkApplication {
     public static void main(String[] args) {
-
         //=====================================================
         // Задание 1. LinkedList
         //=====================================================
