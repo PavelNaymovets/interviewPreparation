@@ -12,6 +12,11 @@ import java.util.List;
 
 public class HomeWorkApplication {
     public static void main(String[] args) {
+        /*
+         Комментарии:
+         * Реализовано задание с 1 по 7.
+        */
+
         AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(AppConfig.class);
         SessionFactoryUtils sessionFactory = context.getBean(SessionFactoryUtilsImpl.class);
         StudentService studentService = context.getBean(StudentServiceImpl.class);
